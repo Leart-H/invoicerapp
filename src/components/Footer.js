@@ -39,7 +39,7 @@ export default function Footer() {
       <p className="text-center px-5 mt-8 text-xs ">
         Invoicer is built by{" "}
         <a
-         href="https://exquisite-piroshki-34f69b.netlify.app/"
+         href="https://www.humblebundle.com"
           target="_blank"
           rel="noreferrer"
           className="underline"
