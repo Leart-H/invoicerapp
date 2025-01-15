@@ -41,7 +41,7 @@ export default function Footer() {
           <p className="text-slate-200">
             Built by{" "}
             <a
-              href="https://tsbsankara.netlify.app"
+              href=""
               target="_blank"
               rel="noreferrer"
               className="underline hover:text-slate-50"
