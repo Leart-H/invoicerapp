@@ -7,7 +7,7 @@ export default function DonateButton() {
           Donate
         </button>
       </form> */}
-      {/* <a href="https://patreon.com/tsbsankara" target="_blank" rel="noreferrer">
+      {/* <a href="https://patreon.com/" target="_blank" rel="noreferrer">
         <button className="bg-red-500 py-2 px-6 rounded text-base hover:bg-transparent border-2 border-red-500 text-white transition-all duration-500 hover:opacity-75 hover:bg-red-500 hover:border-red-500 shadow-lg flex items-center">
           Support Me On Patreon
         </button>
